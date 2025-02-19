@@ -1,0 +1,8 @@
+pandas
+textdistance
+joblib
+numpy
+scikit-learn
+matplotlib
+tqdm
+paddlepaddle
